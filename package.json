@@ -35,6 +35,7 @@
     "stylelint": "^14.14.0"
   },
   "dependencies": {
+    "@wordpress/data": "^7.5.0",
     "@wordpress/i18n": "^4.21.0"
   }
 }
